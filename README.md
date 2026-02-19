@@ -7,7 +7,7 @@ Here you’ll find a curated selection of books and resources to build a strong 
 
 2. Materials on Applications in Political & Social Analysis
 
-2.1. Political Analysis: main journal on political science which apply AI, machine learning and methodology: 
+2.1. Political Analysis: Major political science journals applying AI, machine learning, and advanced methodology: 
 https://www.cambridge.org/core/journals/political-analysis
 
 
