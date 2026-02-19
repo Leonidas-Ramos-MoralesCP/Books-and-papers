@@ -6,6 +6,7 @@ Here you’ll find a curated selection of books and resources to build a strong 
 1.1. Build a career in Data Science (Robinson and Nolis):   [pdfcoffee.com_build-a-career-in-data-science-by-emily-robinson-jacqueline-nolis-z-liborg-pdf-free.pdf](https://github.com/LTS-tech-community/data-science-resources/blob/main/pdfcoffee.com_build-a-career-in-data-science-by-emily-robinson-jacqueline-nolis-z-liborg-pdf-free.pdf) 
 
 2. Materials on Applications in Political & Social Analysis
-
+2.1. political Analysis: main journal on political science which apply AI, machine learning and methodology: 
+https://www.cambridge.org/core/journals/political-analysis
 
 
