@@ -7,7 +7,11 @@ Here you’ll find a curated selection of books and resources to build a strong 
 
 1.2. Web Aprende Python: https://aprendepython.es/ 
 
-1.3. Google´s API: https://developers.google.com/apis-explorer?hl=es-419 
+1.3. Coding Practice Website: https://www.codewars.com/dashboard 
+
+1.4. Coding Practice Website (Gamification): https://www.codedex.io/ 
+
+1.5. Google´s API: https://developers.google.com/apis-explorer?hl=es-419 
 
 # 2. Materials on Applications in Political & Social Analysis
 
