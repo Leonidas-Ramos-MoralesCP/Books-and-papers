@@ -7,6 +7,8 @@ Here you’ll find a curated selection of books and resources to build a strong 
 
 1.2. Web Aprende Python: https://aprendepython.es/ 
 
+1.3. Google´s API: https://developers.google.com/apis-explorer?hl=es-419 
+
 # 2. Materials on Applications in Political & Social Analysis
 
 2.1. Political Analysis: Major political science journals applying AI, machine learning, and advanced methodology: 
