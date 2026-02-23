@@ -15,7 +15,9 @@ Here you’ll find a curated selection of books and resources to build a strong 
 
 1.6. To practice Python: https://github.com/qxresearch/qxresearch-event-1?tab=readme-ov-file 
 
-1.7. Python for beginners:  https://www.python.org/about/gettingstarted/ 
+1.7. Python for beginners:  https://www.python.org/about/gettingstarted/
+
+1.8. Story of Python: https://www.youtube.com/watch?v=GfH4QL4VqJ0 
 
 # 2. Materials on Applications in Political & Social Analysis
 
