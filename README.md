@@ -13,6 +13,10 @@ Here you’ll find a curated selection of books and resources to build a strong 
 
 1.5. Google´s API: https://developers.google.com/apis-explorer?hl=es-419 
 
+1.6. To practice Python: https://github.com/qxresearch/qxresearch-event-1?tab=readme-ov-file 
+
+1.7. Python for beginners:  https://www.python.org/about/gettingstarted/ 
+
 # 2. Materials on Applications in Political & Social Analysis
 
 2.1. Political Analysis: Major political science journals applying AI, machine learning, and advanced methodology: 
