@@ -26,4 +26,8 @@ https://www.cambridge.org/core/journals/political-analysis
 
 2.2. LLM in computational social science (2025): https://link.springer.com/article/10.1007/s13278-025-01428-9?error=cookies_not_supported&code=59d9966f-6ee5-4cad-bdeb-3047fef6ad0d&_x_tr_hl=
 
+# 3. Databases
+
+3.1. GDELT: https://www.gdeltproject.org/ 
+
 
