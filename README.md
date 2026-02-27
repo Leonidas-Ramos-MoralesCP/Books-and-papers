@@ -34,6 +34,8 @@ LLM in computational social science (2025): https://link.springer.com/article/10
 
 # Databases
 
-GDELT: https://www.gdeltproject.org/ 
+GDELT: https://www.gdeltproject.org/
+
+HARVARD Dataverse: https://dataverse.harvard.edu/ 
 
 
