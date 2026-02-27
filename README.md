@@ -38,4 +38,6 @@ GDELT: https://www.gdeltproject.org/
 
 HARVARD Dataverse: https://dataverse.harvard.edu/ 
 
+Find Data at ICPSR: https://www.icpsr.umich.edu/sites/icpsr/find-data 
+
 
