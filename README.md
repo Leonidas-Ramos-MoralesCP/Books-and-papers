@@ -1,9 +1,18 @@
 # Books,-papers and materials
 Here you’ll find a curated selection of books and resources to build a strong foundation in pure math, data science, and machine learning. I also share books and papers applying these tools to political and social analysis (especially political science), with practical private-sector use cases.
 
-# Books on Data Science, Machine Learning & Mathematics
+# Books and manuals on Data Science, Machine Learning & Mathematics
 
 Build a career in Data Science (Robinson and Nolis):   [pdfcoffee.com_build-a-career-in-data-science-by-emily-robinson-jacqueline-nolis-z-liborg-pdf-free.pdf](https://github.com/LTS-tech-community/data-science-resources/blob/main/pdfcoffee.com_build-a-career-in-data-science-by-emily-robinson-jacqueline-nolis-z-liborg-pdf-free.pdf) 
+
+Text mining: https://hal.science/hal-03845336v1/file/DM_CM10.pdf 
+https://www.bis.org/ifc/publ/ifcb50_09.pdf
+https://amacanovic.github.io/Macanovic_text_mining_SSR_2022.pdf 
+https://blog.koheiw.net/wp-content/uploads/2019/07/Lecture-02.pdf
+https://cids.up.edu.ph/wp-content/uploads/2024/08/Text_Mining_Concept_Note.pdf 
+https://www.cambridgeassessment.org.uk/Images/466185-text-mining-an-introduction-to-theory-and-some-applications-.pdf 
+https://vanatteveldt.com/files/atteveldt_ore_automatictextanalysis.pdf
+https://christopherlucas.org/files/PDFs/text_comp_politics.pdf 
 
 # Api´s 
 
