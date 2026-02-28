@@ -25,7 +25,7 @@ Python for beginners:  https://www.python.org/about/gettingstarted/
 
 Story of Python: https://www.youtube.com/watch?v=GfH4QL4VqJ0 
 
-Course of Google: https://www.coursera.org/learn/python-crash-course 
+Course of Google: https://www.coursera.org/learn/python-crash-course
 
 # Materials on Applications in Political & Social Analysis
 
@@ -41,5 +41,11 @@ GDELT: https://www.gdeltproject.org/
 HARVARD Dataverse: https://dataverse.harvard.edu/ 
 
 Find Data at ICPSR: https://www.icpsr.umich.edu/sites/icpsr/find-data 
+
+# Learn others plataforms
+
+Microsoft Azure: [https://www.coursera.org/learn/microsoft-azure-machine-learning-for-data-scientist?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1-v2_en_m_hyb_24-04_nonNRL-within-14d&campaignid=21239613742&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6501905150&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=21320925518&gbraid=0AAAAADdKX6bqBWJ0yJBvB2e7Y6oTdJtQX&gclid=CjwKCAiAnoXNBhAZEiwAnItcG5ilngJsi_LbYXiUUhIUTaHQ0WUwAIINOByPNWZwPOGmUrh6Qx9GYBoCqP8QAvD_BwE#modules ](https://www.coursera.org/learn/microsoft-azure-machine-learning-for-data-scientist?utm_medium=sem&utm_source=gg&utm_campaign=b2c_latam_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1-v2_en_m_hyb_24-04_nonNRL-within-14d&campaignid=21239613742&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6501905150&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=21320925518&gbraid=0AAAAADdKX6bqBWJ0yJBvB2e7Y6oTdJtQX&gclid=CjwKCAiAnoXNBhAZEiwAnItcG5ilngJsi_LbYXiUUhIUTaHQ0WUwAIINOByPNWZwPOGmUrh6Qx9GYBoCqP8QAvD_BwE#about)
+
+
 
 
