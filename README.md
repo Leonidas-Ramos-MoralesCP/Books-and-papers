@@ -3,6 +3,8 @@ Here you’ll find a curated selection of books and resources to build a strong 
 
 # Books and manuals on Data Science, Machine Learning & Mathematics
 
+Cálculo de una variable (James Steward): https://eva.interior.udelar.edu.uy/pluginfile.php/96366/mod_resource/content/1/Stewart.%20C%C3%A1lculo%20de%20una%20variable..pdf 
+
 Build a career in Data Science (Robinson and Nolis):   [pdfcoffee.com_build-a-career-in-data-science-by-emily-robinson-jacqueline-nolis-z-liborg-pdf-free.pdf](https://github.com/LTS-tech-community/data-science-resources/blob/main/pdfcoffee.com_build-a-career-in-data-science-by-emily-robinson-jacqueline-nolis-z-liborg-pdf-free.pdf) 
 
 Text mining: https://hal.science/hal-03845336v1/file/DM_CM10.pdf 
