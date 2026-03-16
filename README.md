@@ -38,6 +38,9 @@ Story of Python: https://www.youtube.com/watch?v=GfH4QL4VqJ0
 
 Course of Google: https://www.coursera.org/learn/python-crash-course
 
+Python intermedio:
+https://micodara.com/
+
 # Materials on Applications in Political & Social Analysis
 
 Political Analysis: Major political science journals applying AI, machine learning, and advanced methodology: 
