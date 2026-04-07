@@ -51,6 +51,8 @@ https://www.cambridge.org/core/journals/political-analysis
 
 LLM in computational social science (2025): https://link.springer.com/article/10.1007/s13278-025-01428-9?error=cookies_not_supported&code=59d9966f-6ee5-4cad-bdeb-3047fef6ad0d&_x_tr_hl=
 
+Computer Vision in Political Science: https://www.cambridge.org/core/journals/political-analysis/article/improving-computer-vision-interpretability-transparent-twolevel-classification-for-complex-scenes/A3A2F0AB8ECEFBE9630C4F91F4D0CA40
+
 # Databases
 
 GDELT: https://www.gdeltproject.org/
