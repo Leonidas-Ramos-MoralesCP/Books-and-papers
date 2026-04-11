@@ -71,6 +71,9 @@ Microsoft Azure: [https://www.coursera.org/learn/microsoft-azure-machine-learnin
 SCIKIT -LEARN: https://scikit-learn.org/stable/
 
 # Buscadores bibliografía
+
+https://open.spotify.com/episode/0Ug6Cpc2grJcCfPQEFVQhg?si=9ecabc3a51154f1a 
+
 https://allenai.org/papers 
 
 https://consensus.app/
