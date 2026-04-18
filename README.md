@@ -84,4 +84,10 @@ https://scispace.com/es
 
 https://www.litmaps.com/
 
+# Probabilidad 
+
+Parte 1: De los fundamentos al teorema de Bayes. https://priyanshuthetechintel.medium.com/probability-beginner-to-advanced-for-data-science-part-1-from-foundations-to-bayes-theorem-267a27f9812e
+
+Probabilidad: De principiante a avanzado para la ciencia de datos, parte 2: Dominando las variables aleatorias, las distribuciones y los momentos para la ciencia de datos. https://priyanshuthetechintel.medium.com/probability-beginner-to-advanced-for-data-science-part-2-mastering-random-variables-88bfb3c1e5b1 
+
 
