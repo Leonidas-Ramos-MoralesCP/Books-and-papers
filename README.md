@@ -24,6 +24,8 @@ Inferencia causal para valientes: https://matheusfacure.github.io/python-causali
 
 Randomized Controlled Trials (RCT): https://erc.undp.org/methods-center/methods/evaluation-methods/randomized-control-trial-rct 
 
+Books: https://github.com/Abcsunny95/Data-Science-Books/tree/master 
+
 # Api´s 
 
 Google´s API: https://developers.google.com/apis-explorer?hl=es-419 
