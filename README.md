@@ -18,7 +18,10 @@ https://christopherlucas.org/files/PDFs/text_comp_politics.pdf
 
 Causal Inference: Mixtape (Scott Cunningham): https://mixtape.scunning.com/01-introduction
 
-Causal Inference: The Sessions (Scott Cunningham et. al): https://mixtape.scunning.com/mixtape_sessions 
+Causal Inference: The Sessions (Scott Cunningham et. al): https://mixtape.scunning.com/mixtape_sessions
+
+Process tracing para la evaluación de programas: 
+https://www.cambridge.org/core/books/case-for-case-studies/process-tracing-for-program-evaluation/3282EBD903031583252019931E5C3BB9
 
 Inferencia causal para valientes: https://matheusfacure.github.io/python-causality-handbook/landing-page.html 
 
